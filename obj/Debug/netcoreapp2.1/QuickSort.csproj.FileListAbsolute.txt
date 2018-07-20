@@ -1,0 +1,11 @@
+E:\Documents\Projects\C#.NET Core\QuickSort\bin\Debug\netcoreapp2.1\QuickSort.deps.json
+E:\Documents\Projects\C#.NET Core\QuickSort\bin\Debug\netcoreapp2.1\QuickSort.runtimeconfig.json
+E:\Documents\Projects\C#.NET Core\QuickSort\bin\Debug\netcoreapp2.1\QuickSort.runtimeconfig.dev.json
+E:\Documents\Projects\C#.NET Core\QuickSort\bin\Debug\netcoreapp2.1\QuickSort.dll
+E:\Documents\Projects\C#.NET Core\QuickSort\bin\Debug\netcoreapp2.1\QuickSort.pdb
+E:\Documents\Projects\C#.NET Core\QuickSort\obj\Debug\netcoreapp2.1\QuickSort.csprojAssemblyReference.cache
+E:\Documents\Projects\C#.NET Core\QuickSort\obj\Debug\netcoreapp2.1\QuickSort.csproj.CoreCompileInputs.cache
+E:\Documents\Projects\C#.NET Core\QuickSort\obj\Debug\netcoreapp2.1\QuickSort.AssemblyInfoInputs.cache
+E:\Documents\Projects\C#.NET Core\QuickSort\obj\Debug\netcoreapp2.1\QuickSort.AssemblyInfo.cs
+E:\Documents\Projects\C#.NET Core\QuickSort\obj\Debug\netcoreapp2.1\QuickSort.dll
+E:\Documents\Projects\C#.NET Core\QuickSort\obj\Debug\netcoreapp2.1\QuickSort.pdb
